@@ -1,5 +1,5 @@
 # FIRE198_ASN2
-FIRE198 - Autonomous Unmanned Systems stream 
+FIRE198 - Autonomous Unmanned Systems
 
 Code corresponding to assignment two
 
